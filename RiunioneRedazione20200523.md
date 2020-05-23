@@ -1,4 +1,5 @@
 # RIUNIONE TEAM REDAZIONE
+Presenti: Zani, VHS, Mac, Luca, Fab, Klizy, DVD
 
 Assenti: Sof, Edward
 
