@@ -4,6 +4,15 @@ Assenti: Sof, Edward
 
 ## 1 - Grassetto e corsivo
 Scrivendo, bisogna usare il **grassetto** per le parole più importanti.
+
 Per le parole straniere utilizzare l'_italic style_
 
+Alcune parole non richiedono necessariamente il corsivo, tipo "stealth", ma non _"spawnare"_
+(Possibilmente evitare italianizzazioni di termini già esistenti in italiano: è meglio evitare "killare", c'è già "uccidere")
+
+## 2 - Piano editoriale
+Non c'è la necessità di essere sul pezzo ogni giorno per novità sui giochi in uscita.
+Sarebbe molto interessante scrivere articoli di informazione e discussione (es. _rumors_ o retrogaming trattando tematiche specifiche, oppure opinioni specifiche su giochi famosi)
+
 ## Note
+Verrà stilato un documento con una lista di riferimento per alcune parole chiave ricorrenti
