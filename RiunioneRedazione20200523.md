@@ -14,11 +14,11 @@ Alcune parole non richiedono necessariamente il corsivo, tipo "stealth", ma non 
 - Non c'è la necessità di essere sul pezzo ogni giorno per novità sui giochi in uscita.
 Sarebbe molto interessante scrivere articoli di informazione e discussione (es. _rumors_ o retrogaming trattando tematiche specifiche, oppure opinioni specifiche su giochi famosi)
 
-- È meglio evitare notizie false o non confermate:
-  "COGGIMA LICENZIATO DA SONY?! IL NUOVO DEATH STRANDING IN ARRIVO"
-  "QUALI POTREBBERO ESSERE I GIOCHI GRATIS DEL PS PLUS DI GIUGNO?"
+- È meglio evitare notizie false o non confermate: _"COGGIMA LICENZIATO DA SONY?! IL NUOVO DEATH STRANDING IN ARRIVO"_; _"QUALI POTREBBERO ESSERE I GIOCHI GRATIS DEL PS PLUS DI GIUGNO?"_
   
  - Clickbait **ASSOLUTAMENTE** da evitare
+ 
+ - Recensioni: disclaimer su opinioni personali; abbondante uso di espressioni esplicite che comunicano un'opinione
 
 ## Note
 Verrà stilato un documento con una lista di riferimento per alcune parole chiave ricorrenti
