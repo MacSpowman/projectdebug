@@ -25,6 +25,9 @@ Sarebbe molto interessante scrivere articoli di informazione e discussione (es. 
 ## 3 - Alcune testate che lavorano molto bene
 Zani suggerisce: Multiplayer.it, Everyeye, PDVG, GameTime
 
+Se si prende ispirazione da altre testate, è buona prassi recuperare le fonti dallo stesso articolo.
+
+Meglio non fossilizzarsi su un singolo argomento e variare il prodotto di cui si parla negli articoli.
 
 ## Note
 Verrà stilato un documento con una lista di riferimento per alcune parole chiave ricorrenti
