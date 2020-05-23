@@ -34,6 +34,11 @@ Se si prende ispirazione da altre testate, è buona prassi recuperare le fonti d
  - **ATTENZIONE AL PLAGIO**: non basta cambiare qualche parola da un testo per evitare il plagio, ma rielabolando il contenuto in una forma differente. Se proprio la cosa non è fattibile, bisogna citare le parole esatte e creditare la fonte. Nel dubbio chiedere a Zani.
 
  - Dissing alle altre testate? Per ora meglio di no, _c'mon_
+ 
+ - Di nuovo: _"Secondo me"_ è il nostro migliore amico, ma ricordiamoci di usarlo per pareri personali e non per cose ovvie (_"Secondo me Assassin's Creed è uno stealth"_) o per cose assurde (_"Secondo me Mortal Kombat è un gioco stealth"_)
+
+ - In periodi più pregni di informazioni, meglio organizzare pochi articoli con tutto, da pubblicare comunque in tempi non troppo lunghi
 
 ## Note
 Verrà stilato un documento con una lista di riferimento per alcune parole chiave ricorrenti
+Presto verrà scritto un articolo di presentazione / chi siamo, ma sarà trattato nelle prossime riunioni
