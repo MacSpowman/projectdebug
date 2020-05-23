@@ -41,4 +41,5 @@ Se si prende ispirazione da altre testate, è buona prassi recuperare le fonti d
 
 ## Note
 Verrà stilato un documento con una lista di riferimento per alcune parole chiave ricorrenti
+
 Presto verrà scritto un articolo di presentazione / chi siamo, ma sarà trattato nelle prossime riunioni
