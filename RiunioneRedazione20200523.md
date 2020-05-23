@@ -27,6 +27,7 @@ Zani suggerisce: Multiplayer.it, Everyeye, PDVG, GameTime
 
 Se si prende ispirazione da altre testate, è buona prassi recuperare le fonti dallo stesso articolo.
 
+## 4 - Altre informazioni utili
 Meglio non fossilizzarsi su un singolo argomento e variare il prodotto di cui si parla negli articoli.
 
 ## Note
