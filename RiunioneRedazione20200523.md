@@ -24,7 +24,7 @@ Sarebbe molto interessante scrivere articoli di informazione e discussione (es. 
  - Meglio non copiare format di altre testate (come "Gratis è bello" di PDVG)
  
 ## 3 - Alcune testate che lavorano molto bene
-Zani suggerisce: Multiplayer.it, Everyeye, PDVG, GameTime
+Zani suggerisce: Multiplayer.it, Everyeye, PDVG, GameTime (ovviamente "ispirarsi in modo intelligente")
 
 Se si prende ispirazione da altre testate, è buona prassi recuperare le fonti dallo stesso articolo.
 
