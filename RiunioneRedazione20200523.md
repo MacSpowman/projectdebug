@@ -11,8 +11,14 @@ Alcune parole non richiedono necessariamente il corsivo, tipo "stealth", ma non 
 (Possibilmente evitare italianizzazioni di termini già esistenti in italiano: è meglio evitare "killare", c'è già "uccidere")
 
 ## 2 - Piano editoriale
-Non c'è la necessità di essere sul pezzo ogni giorno per novità sui giochi in uscita.
+- Non c'è la necessità di essere sul pezzo ogni giorno per novità sui giochi in uscita.
 Sarebbe molto interessante scrivere articoli di informazione e discussione (es. _rumors_ o retrogaming trattando tematiche specifiche, oppure opinioni specifiche su giochi famosi)
+
+- È meglio evitare notizie false o non confermate:
+  "COGGIMA LICENZIATO DA SONY?! IL NUOVO DEATH STRANDING IN ARRIVO"
+  "QUALI POTREBBERO ESSERE I GIOCHI GRATIS DEL PS PLUS DI GIUGNO?"
+  
+ - Clickbait **ASSOLUTAMENTE** da evitare
 
 ## Note
 Verrà stilato un documento con una lista di riferimento per alcune parole chiave ricorrenti
