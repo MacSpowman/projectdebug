@@ -28,7 +28,11 @@ Zani suggerisce: Multiplayer.it, Everyeye, PDVG, GameTime
 Se si prende ispirazione da altre testate, è buona prassi recuperare le fonti dallo stesso articolo.
 
 ## 4 - Altre informazioni utili
-Meglio non fossilizzarsi su un singolo argomento e variare il prodotto di cui si parla negli articoli.
+ - Meglio non fossilizzarsi su un singolo argomento e variare il prodotto di cui si parla negli articoli.
+
+ - **ATTENZIONE AL PLAGIO**: non basta cambiare qualche parola da un testo per evitare il plagio, ma rielabolando il contenuto in una forma differente. Se proprio la cosa non è fattibile, bisogna citare le parole esatte e creditare la fonte. Nel dubbio chiedere a Zani.
+
+ - Dissing alle altre testate? Per ora meglio di no, _c'mon_
 
 ## Note
 Verrà stilato un documento con una lista di riferimento per alcune parole chiave ricorrenti
