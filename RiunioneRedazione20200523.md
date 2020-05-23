@@ -1,4 +1,4 @@
-# RIUNIONE TEAM REDAZIONE
+# RIUNIONE TEAM REDAZIONE DEL 23/05/2020
 Presenti: Zani, VHS, Mac, Luca, Fab, Klizy, DVD
 
 Assenti: Sof, Edward
